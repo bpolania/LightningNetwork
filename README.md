@@ -36,6 +36,10 @@ For the latest version of the daemon, release signatures verification anb more i
 
 The bitcoin-cli comes with the Bitcoin Core, install it using the following [instructions](https://bitcoin.org/en/full-node#possible-problems)
 
+### lnd
+
+Install `lnd` using the instructions in the `.readme` file of its [github repo](https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md)
+
 ## Installation
 
 * In order to get this running, there are a series of folders, aliases and exports that need to be created, the `bash_profile` file in the repo will take care of the `exports` and the `aliases`, bu the following folders need to be created:
