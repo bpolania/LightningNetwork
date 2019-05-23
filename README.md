@@ -42,7 +42,7 @@ Install `lnd` using the instructions in the `.readme` file of its [github repo](
 
 ## Installation
 
-* In order to get this running, there are a series of folders, aliases and exports that need to be created, the `bash_profile` file in the repo will take care of the `exports` and the `aliases`, bu the following folders need to be created:
+* In order to get this running, there are a series of folders, aliases and exports that need to be created, the `.bash_profile` file in the repo will take care of the `exports` and the `aliases`, bu the following folders need to be created:
 
 ```
 $ mkdir ~/app-container
