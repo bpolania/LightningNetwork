@@ -61,3 +61,6 @@ All the three files are included in repo
 
 * You can run the whole setup following the instructions in the article mentioned [above](https://medium.com/@bitstein/setting-up-a-bitcoin-lightning-network-test-environment-ab967167594a), in case the article is taken out in the future, a `.pdf` version has been included in the repo. 
 
+## Additional Resources
+
+* [Android Lightning Network Wallet](https://github.com/btcontract/lnwallet)
