@@ -42,7 +42,7 @@ Install `lnd` using the instructions in the `.readme` file of its [github repo](
 
 ## Installation
 
-* In order to get this running, there are a series of folders, aliases and exports that need to be created, the `bash_profile` file in the repo will take care of the `exports` and the `aliases`, bu the following folders need to be created:
+* In order to get this running, there are a series of folders, aliases and exports that need to be created, the `.bash_profile` file in the repo will take care of the `exports` and the `aliases`, bu the following folders need to be created:
 
 ```
 $ mkdir ~/app-container
@@ -64,3 +64,5 @@ All the three files are included in repo
 ## Additional Resources
 
 * [Android Lightning Network Wallet](https://github.com/btcontract/lnwallet)
+* [.bash_profile sample file](https://natelandau.com/my-mac-osx-bash_profile/)
+* [Updating the .bash_profile file](https://stackoverflow.com/questions/30461201/how-do-i-edit-path-bash-profile-on-osx)
