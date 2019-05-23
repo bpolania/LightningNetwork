@@ -64,3 +64,5 @@ All the three files are included in repo
 ## Additional Resources
 
 * [Android Lightning Network Wallet](https://github.com/btcontract/lnwallet)
+* [.bash_profile sample file](https://natelandau.com/my-mac-osx-bash_profile/)
+* [Updating the .bash_profile file](https://stackoverflow.com/questions/30461201/how-do-i-edit-path-bash-profile-on-osx)
